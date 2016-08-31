@@ -5,7 +5,7 @@
 - [x] Implementar modales en select products, sales y services
 - [ ] Agregar boton done a modales
 - [x] Peristencia de token para sesion
-- [ ] Popop right menu (Logout y profile)
+- [x] Popop right menu (Logout y profile)
 - [ ] Profile user
 
 
