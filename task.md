@@ -7,6 +7,8 @@
 - [x] Peristencia de token para sesion
 - [x] Popop right menu (Logout y profile)
 - [ ] Profile user
+- [ ] Controlar request con promises en controladores
+
 
 
 ***
@@ -21,3 +23,10 @@
 - [x] Controlar peticiones de servicios desde controladores con $promise
 - [ ] Seguridad a las vistas con function en el $rootScope
 - [x] Refactor $rootScope, id: @id en peticiones, error 'detail'
+
+
+
+## Sales
+
+- [ ] Metodo delete debe recibir necesariamente todo el producto?, por que no solo id. 
+- [ ] Logica carrito - sumar y restar products and services
