@@ -18,6 +18,6 @@
 - [ ] GUI Sales
 - [ ] Dejar un solo $urlRouterProvider.otherwise();
 - [ ] Implementar injeccion(buena practica) en metodos generados por Ionic
-- [ ] Controlar peticiones de servicios desde controladores con $promise
+- [x] Controlar peticiones de servicios desde controladores con $promise
 - [ ] Seguridad a las vistas con function en el $rootScope
-- [ ] Refactor $rootScope, id: @id en peticiones, error 'detail'
+- [x] Refactor $rootScope, id: @id en peticiones, error 'detail'
