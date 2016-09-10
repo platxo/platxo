@@ -29,4 +29,4 @@
 ## Sales
 
 - [ ] Metodo delete debe recibir necesariamente todo el producto?, por que no solo id. 
-- [ ] Logica carrito - sumar y restar products and services
+- [x] Logica carrito - sumar y restar products and services
